@@ -2,7 +2,7 @@
 
 **summary**
 
-this webpage was created specifically for [Udacity's Intro to programming Nanodegree]
+* This webpage was created specifically for [Udacity's Intro to programming Nanodegree]
 ** The application offers the following features **
 
 * Creating the webpage that is replicated for project requirement.
