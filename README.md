@@ -18,4 +18,4 @@ this webpage was created specifically for [Udacity's Intro to programming Nanode
 * Right click and open with chrome browser
 
 ** Closing **
-In conclusion, I have learnt a lot by working on this project. Iam confident that Iam able to successfully create webpages using HTML and CSS.
+* In conclusion, I have learnt a lot by working on this project. Iam confident that Iam able to successfully create webpages using HTML and CSS.
