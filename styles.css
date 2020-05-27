@@ -1,0 +1,42 @@
+.container {
+	border: 2px solid black;
+	width: 310px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	padding: 10px;
+	box-shadow: 4px 4px 3px #aaa;
+	background: linear-gradient( -45deg, #ffcc99, #ffffff);
+}
+
+.main {
+	width: 300px;
+	border: 2px solid purple;
+	margin-top: 10px;
+	padding: 3px;
+	color: dark grey;
+	box-shadow: 4px 4px 3px #aaa;
+	text-shadow: 2px 2px 3px #aaa;
+	font: bold 10pt "Times new roman georgia";
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+span {
+	font-weight: bold;
+	color: #0f0fbd;
+}
+
+#fact {
+	font-style: italic;
+	font-size: 9.5pt;
+}
+
+h1 {
+	font: normal bold 25px serif, sans-serif, monospace;
+	text-decoration: underline;
+	text-shadow: 4px 3px 3px #aaa;
+}
